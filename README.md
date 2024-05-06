@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hey :P
 
 ---
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=k1k1bee&theme=shadow-green"/></a>
+</p>
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -25,14 +30,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="PuTTY" alt="PuTTY" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-
-
----
-
-### :fire: My Stats :
-<div>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=k1kbee&theme=shadow-green" alt="GitHub Streak" /></a>
 </div>
 
 
