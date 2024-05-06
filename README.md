@@ -6,6 +6,8 @@
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k1k1bee&theme=merko" alt="k1k1bee" /></p>
 </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k1k1bee&theme=green_nur" alt="k1k1bee" /></p>
+</p>
 
 ---
 ### Languages and Tools
