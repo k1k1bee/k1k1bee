@@ -2,10 +2,10 @@
 
 ---
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=k1k1bee&theme=shadow-green"/></a>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k1k1bee&theme=vue" alt="k1k1bee" /></p>
 </p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k1k1bee&theme=merko" alt="k1k1bee" /></p>
+</p>
 ---
 ### Languages and Tools
 <div>
